@@ -36,8 +36,6 @@ class Funcionario(models.Model):
         return self.nome
 ```
 
-Foram criados também formulários para a criação de uma empresa, de um usuário e de um funcionário. Todos estes formulários estão no arquivo forms.py e devidamente comentados.
-
 ## Endpoints:
 
 Para essa pequena API foram criados os seguintes endpoints:
